@@ -1,0 +1,9 @@
+.menu-item img {
+    width: 150px;
+}
+
+
+.menu-item {
+    background-color: rgb(45, 133, 92);
+    border: chartreuse;
+}
